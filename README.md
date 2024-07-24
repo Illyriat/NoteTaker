@@ -1,4 +1,4 @@
-# TReact Typescript Note Taker
+# React/Typescript Note Taker
 
 [![My Skills](https://skillicons.dev/icons?i=vite,react,ts,html,css)](https://skillicons.dev)
 
